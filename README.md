@@ -1,6 +1,6 @@
 <div align="center"> 
   
-<h1>Lastest CheatEngine - Portable</h1>
+<h1>Latest CheatEngine - Portable</h1>
 </div>
 
 ### What is portable
