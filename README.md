@@ -2,10 +2,6 @@
   
 <h1>Latest CheatEngine - Portable</h1>
 </div>
-
-### What is portable
-- Portable application, also known as portable software, roughly translated as portable software, is software that does not need to be installed on a computer but can be directly run from a peripheral storage device such as a CD-ROM, USB flash drive, memory cards, or even floppy disks, capable of running on many computers.
-
 ### Download [latest](https://github.com/ki3tngu/CheatEngine-Portable/releases/download/7.6/Cheat.Engine.7.6.zip)
 ### Older version [Releases](https://github.com/ki3tngu/CheatEngine-Portable/releases/)
 <br>
